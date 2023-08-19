@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    width: 2%;
+    margin-left: 12px;
+    
+    /* justify-content: space-around; */
+}
+.card img{
+    height: 35vh;
+    margin-top: 5px;
+    border-radius: 5px;
+    
+}
